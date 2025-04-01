@@ -28,5 +28,7 @@ npm start
 
 ## 📝 Features
 ✔️ Responsive design
+
 ✔️ Modern UI with React & TypeScript
+
 ✔️ Meets FCC project requirements
